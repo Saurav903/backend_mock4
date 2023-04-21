@@ -9,9 +9,30 @@
     },
     {
       "id": 2,
-      "name": "Tommy",
+      "name": "Jerry",
+      "age": 4,
+      "place": "Delhi",
+      "gender": "Female"
+    },
+    {
+      "id": 3,
+      "name": "Harry",
+      "age": 2,
+      "place": "UP",
+      "gender": "Male"
+    },
+    {
+      "id": 4,
+      "name": "Jannie",
+      "age": 5,
+      "place": "Himachal",
+      "gender": "Female"
+    },
+    {
+      "id": 5,
+      "name": "Jay",
       "age": 3,
-      "place": "Banglore",
+      "place": "Gujrat",
       "gender": "Female"
     }
   ]
